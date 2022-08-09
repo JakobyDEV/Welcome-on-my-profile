@@ -2,4 +2,3 @@
 - 👀 I’m interested in Webdesign - HTML CSS JS
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on my personal website, which could help me to find a job.
-- 📫 How to reach me Twitter: https://twitter.com/JakubGasiorek2 Gmail: j.gasiorek99@gmail.com
